@@ -22,6 +22,7 @@
 <p> - 🎯 Interesse: Java, HTML, CSS, JavaScript, AWS, React. </p>
 <p> - 🧠 Estudando TypeScript, Amazon AWS. </p>
 <p> - 🕹️ Meu passa tempo fav é um lolzin rs </p>
+<p> - 🧠 Gosto de aprender novas tecnologias</p>
  
 </div>
  
@@ -32,7 +33,7 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulglost&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-##  Skills!! 👾
+##  Habilidades!! 👾
  
 <div align="center">
 
