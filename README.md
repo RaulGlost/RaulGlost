@@ -25,7 +25,6 @@
  
 </div>
  
- 
 <div style="display: inline_block">
 
  <a href="https://github.com/RaulGlost">
