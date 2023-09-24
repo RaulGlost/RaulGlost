@@ -22,7 +22,7 @@
 <p> - 🎯 Interesse: Java, HTML, CSS, JavaScript, AWS, React. </p>
 <p> - 🧠 Estudando TypeScript, Amazon AWS. </p>
 <p> - 🕹️ Meu passa tempo fav é um lolzin rs </p>
-<p> - 🧠 Gosto de aprender novas tecnologias</p>
+<p> - 💻 Gosto de aprender novas tecnologias</p>
  
 </div>
  
@@ -52,7 +52,7 @@
 ## Rede Social
 <div aling="center">
 
-  <a href="https://www.instagram.com/raulg.lost/" target="_blank"> <img aling="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/raulg.lost/" target="_blank"> <img aling="center" rsrc="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
  <div/>
