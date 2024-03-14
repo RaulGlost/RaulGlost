@@ -1,11 +1,11 @@
-## Desenvolvedor Web
+## Desenvolvedor Web🧠
 
 
 
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"/>
+<img  height="325" width="600" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif"/>
  
  
 
@@ -23,15 +23,17 @@
 <p> - 🧠 Estudando TypeScript, Amazon AWS. </p>
 <p> - 🕹️ Meu passa tempo fav é um lolzin rs </p>
 <p> - 💻 Gosto de aprender novas tecnologias</p>
- 
+
+
+ ## PROJETOS 🕹️
+<div>
+ <p>Jogo da memória One piece</p>
+<a href="https://raulglost.github.io/Projetos/ " target="_blank"> <img aling="center" height="135" width="225" src="https://imgsrv.crunchyroll.com/cdn-cgi/image/format=auto,width=1200,height=675,fit=contain,quality=85/catalog/crunchyroll/a249096c7812deb8c3c2c907173f3774.jpe"></a>
+
 </div>
 
+ 
  <div>
-  ## PROJETOS
-  <P src="https://raulglost.github.io/Projetos/">
- </div>
-<div style="display: inline_block">
-
  <a href="https://github.com/RaulGlost">
   <img src="https://github-readme-stats.vercel.app/api?username=Raulglost&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raulglost&layout=compact&langs_count=7&theme=dark"/>
