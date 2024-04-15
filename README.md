@@ -20,8 +20,7 @@
  
 <p> - 🎒 Cursando Análise e Desenvolvimento de Sistemas. </p>
 <p> - 🎯 Interesse: Java, HTML, CSS, JavaScript, AWS, React. </p>
-<p> - 🧠 Estudando TypeScript, Amazon AWS. </p>
-<p> - 🕹️ Meu passa tempo fav é um lolzin rs </p>
+<p> - 🧠 Estudando SQL Oracle. </p>
 <p> - 💻 Gosto de aprender novas tecnologias</p>
 
 
