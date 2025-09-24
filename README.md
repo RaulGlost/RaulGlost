@@ -1,4 +1,4 @@
-## Desenvolvedor Web🧠
+## Analista de Suporte🧠
 
 
 
@@ -21,6 +21,7 @@
 <p> - 🎒 Cursando Análise e Desenvolvimento de Sistemas. </p>
 <p> - 🎯 Interesse: Java, HTML, CSS, JavaScript, AWS, React. </p>
 <p> - 🧠 Estudando SQL Oracle. </p>
+<p> - 🧠 Estudando Python. </p>
 <p> - 💻 Gosto de aprender novas tecnologias</p>
 
 
